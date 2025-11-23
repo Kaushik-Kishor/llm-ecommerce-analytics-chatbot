@@ -1,6 +1,8 @@
 
 # LLM-Powered E-commerce Analytics Chatbot  
 Local LLM + FAISS + LangChain + Streamlit
+### Home Screen
+![Home Screen](pic/pic1.png)
 
 ## Overview
 This project is a fully local, offline analytics assistant designed for exploring and understanding multi-table e-commerce data (Olist dataset).  
